@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <div>haha2</div>
+      <div>haha21</div>
       <div>hihi</div>
       <div>
         <a href="https://vitejs.dev" target="_blank">
